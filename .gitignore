@@ -1,0 +1,25 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Visual Studio / JetBrains Rider
+.vscode/
+*.csproj
+*.sln
+*.user
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Builds (optional)
+*.apk
+*.exe
+*.zip
+*.app
